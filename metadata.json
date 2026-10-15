@@ -1,0 +1,6 @@
+{
+  "name": "GIT//LAB — Interactive Git & GitHub Engine",
+  "description": "An interactive Git and GitHub learning laboratory simulating commit graphs, branches, 3-way merge conflicts, rebasing, and multi-contributor collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
